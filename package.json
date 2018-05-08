@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carolina0200/platzom.git"
+    "url": "git@github.com:carolina0200/platzom.git"
   },
   "keywords": [
     "platzom",
